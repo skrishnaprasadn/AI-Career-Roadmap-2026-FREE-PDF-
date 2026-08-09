@@ -130,17 +130,19 @@ p{
 =========================== */
 
 .benefits{
-
-    margin-bottom:40px;
-
+    margin:25px 0;
 }
 
-.benefits p{
+.benefits ul{
+    list-style:none;
+    padding:0;
+    margin:0;
+}
 
+.benefits li{
     font-size:22px;
-
-    margin:10px 0;
-
     font-weight:500;
-
+    color:white;
+    margin-bottom:14px;
+    line-height:1.5;
 }
